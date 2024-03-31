@@ -1,5 +1,7 @@
 # merunyaa.xyz
-Usage:
+Used for parsing images from [merunyaa.xyz](https://merunyaa.xyz/) / generate random image
+
+## Usage
 ```js
 
 import { parse, random } from 'merunyaa.xyz';
